@@ -6,7 +6,7 @@ public class Switch {
 		String a="Login";
 		switch (a)
 		{
-		case "Login":
+		case "Login again":
 		System.out.println("Login");
 		break;
 		case "Home":
