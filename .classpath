@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="C:/Users/LKB-L-039/Downloads/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="C:/Users/LKB-L-039/Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/LKB-L-039/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/seleniumjars/selenium-server-standalone-2.53.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
